@@ -29,7 +29,7 @@ framework choices, to provide you with enough context and familiarity to start g
 greater depth yourself. We want you to go forward and learn about frameworks in a 
 pragmatic way that doesn't forget about web platform fundamental best practices such 
 as accessibility.
-<br>
+<br><br>
 <p><a href="https://dev.to/dharamgfx/javascript-client-side-frameworks-a-comprehensive-guide-1a46">
 Get started now, with "Introduction to client-side frameworks"</a>.</p>
 
@@ -56,8 +56,7 @@ Ember was initially released in December 2011 as a continuation of work that sta
 the SproutCore project. It is an older framework that has less users than more modern 
 alternatives such as React and Vue, but it still enjoys a fair amount of popularity due 
 to its stability, community support, and some clever coding principles.
-<br>
-
+<br><br>
 <p><a href="https://guides.emberjs.com/release/getting-started/quick-start/">
 Start learning Ember</a>.</p>
 
