@@ -57,6 +57,7 @@ the SproutCore project. It is an older framework that has less users than more m
 alternatives such as React and Vue, but it still enjoys a fair amount of popularity due 
 to its stability, community support, and some clever coding principles.
 <br>
+
 <p><a href="https://guides.emberjs.com/release/getting-started/quick-start/">
 Start learning Ember</a>.</p>
 
