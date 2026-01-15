@@ -1,4 +1,4 @@
-<h1 id="#dom-tree">dom-tree (the dom)</h1>
+<h1 id="#dom-tree">javascript dom-tree (the dom)</h1>
 
 <h2 id="JS-frameworks">Understanding client-side JavaScript frameworks</h2>
 JavaScript frameworks are an essential part of modern front-end web development, 
